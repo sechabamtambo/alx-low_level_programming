@@ -2,10 +2,11 @@
 /**
  * main - Entry point
  *
- * REturn: Always 0 (Succeess)
+ * Return: Always 0 (succeess)
  */
 
-int main(void) {
+int main(void)
+{
 
 	char c;
 
