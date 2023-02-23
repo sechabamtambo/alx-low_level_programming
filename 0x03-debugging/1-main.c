@@ -11,7 +11,7 @@ int main(void)
 
 	printf("Infinite loop incoming :(\n");
 
-	i = 0;
+	j = 0;
 
 	printf("Infinite loop avoided! \\o/\n");
 
