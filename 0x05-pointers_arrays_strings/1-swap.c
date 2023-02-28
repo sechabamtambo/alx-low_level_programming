@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** swap_int _ Swap the values of two integers
+/* swap_int _ Swap the values of two integers
  * the first integer to be swapped
  * the second integer to be swapped
  *
